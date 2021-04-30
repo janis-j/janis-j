@@ -27,6 +27,14 @@ I am Jānis Jankovs. Currently, working in company called Codelex as a Software 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+### 🗄 My projects:
+
+|*|Repo|Description|
+|---|---|---|
+| 📦 | [/rock-paper-scissors](https://github.com/janis-j/rock-paper-scissors) | Simple game based on MVC standards |
+| 📦 | [/stocks](https://github.com/janis-j/PHP-course/tree/main/tasks/stocks) | Little stock trading app based on FinnHub API |
+| 📦 | [/currency-converter](https://github.com/janis-j/currency-converter) | Currency converter on Laravel using API for real time currency rates |
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=janis-j&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janis-j&hide=TeX&layout=compact)
 
