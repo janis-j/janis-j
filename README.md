@@ -1,6 +1,6 @@
 ## Hello, nice to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Jānis Jankovs. Currently, working in company called Codelex as a Software Developer, but open for new opportunities. Find out more about me & feel free to connect with me here:
+I am Jānis Jankovs. Currently, working in company called Beat IT Marketing as a Software Developer, but open for new opportunities. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jānis_Jankovs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janis-j/)](https://www.linkedin.com/in/janis-j/)
 [![Medium Badge](https://img.shields.io/badge/-CODELEX-03a57a?style=flat-square&labelColor=000000=Medium&link=https://www.codelex.io/uznemumiem)](https://www.codelex.io/uznemumiem)
